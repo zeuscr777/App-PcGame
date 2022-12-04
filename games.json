@@ -1,0 +1,234 @@
+{
+	"gry": [ 
+	{
+		"id": "0",
+		"nazwaGry": "Mafia II",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "140",
+		"dataPremiery": [
+			{
+			"dzien": "24",
+			"miesiac": "Sierpień",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis gry Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nazwaGry": "The Forest",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nazwaGry": "Rocket League",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nazwaGry": "Need For Speed",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nazwaGry": "GTA III",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nazwaGry": "Wiedźmin 3",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nazwaGry": "The Sims 4",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "7",
+		"nazwaGry": "Battlefield 4",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nazwaGry": "Arma III",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nazwaGry": "Euro Truck Simulator 2",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nazwaGry": "Far Cry 5",
+		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
+		"gatunek": "Akcji",
+		"cena": "40",
+		"dataPremiery": [
+			{
+			"dzien": "10",
+			"miesiac": "Grudzien",
+			"rok": "2010"
+			}
+		],	
+		"opisGry":  "Opis Mafia II",
+		"inneDane":[
+			{
+				"platforma": "PC",
+				"trybGry": "Singleplayer"				
+			}
+		]
+	}]
+}
