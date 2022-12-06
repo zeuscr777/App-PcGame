@@ -6,20 +6,19 @@
 		"okladka" : "https://d.allegroimg.com/original/038c7e/22d6bf844a699c01bb30cc1cf42d/MAFIA-II-2-PL-PC-KLUCZ-STEAM-BONUS",
 		"gatunek": "Akcji",
 		"cena": "140",
-		"dataPremiery": [
+		"dataPremiery": 
 			{
 			"dzien": "24",
 			"miesiac": "Sierpień",
 			"rok": "2010"
 			}
-		],	
+		,	
 		"opisGry":  "Opis gry Mafia II",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "1",
@@ -27,20 +26,18 @@
 		"okladka" : "https://s1.gaming-cdn.com/images/products/642/orig-fallback-v1/the-forest-pc-game-steam-cover.jpg?v=1662538631",
 		"gatunek": "Survival",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "15",
 			"miesiac": "Styczeń",
 			"rok": "2015"
-			}
-		],	
+			},	
 		"opisGry":  "Opis The Forest",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "2",
@@ -48,20 +45,18 @@
 		"okladka" : "https://www.miastogier.pl/baza/Encyklopedia/gry/RocketLeague_PC/Okladka/okl_rocket_cover_pc.jpg",
 		"gatunek": "Wyścigowa",
 		"cena": "80",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "12",
 			"miesiac": "Styczeń",
 			"rok": "2012"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Rocket League",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "3",
@@ -69,20 +64,18 @@
 		"okladka" : "https://ecsmedia.pl/c/need-for-speed-b-iext121780789.jpg",
 		"gatunek": "Wyścigowa",
 		"cena": "100",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "9",
 			"miesiac": "Luty",
 			"rok": "2022"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Need For Speed",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "4",
@@ -90,20 +83,18 @@
 		"okladka" : "https://a.allegroimg.com/s1024/0ca6fc/4d729bbb44cfad74ac2b05258556",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "4",
 			"miesiac": "Marzec",
 			"rok": "2007"
-			}
-		],	
+			},	
 		"opisGry":  "Opis GTA III",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "5",
@@ -111,20 +102,18 @@
 		"okladka" : "https://pobierzgry24.pl/wp-content/uploads/2015/09/wied_min-3-dziki-gon-pc-digi.jpg",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "10",
 			"miesiac": "Kwiecień",
 			"rok": "2015"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Wiedźmin 3",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "6",
@@ -132,20 +121,18 @@
 		"okladka" : "https://www.mobygames.com/images/covers/l/578241-the-sims-4-playstation-4-front-cover.jpg",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "17",
 			"miesiac": "Maj",
 			"rok": "2018"
-			}
-		],	
+			},	
 		"opisGry":  "Opis The Sims 4",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "7",
@@ -153,20 +140,18 @@
 		"okladka" : "https://images.g2a.com/1024x768/1x1x0/battlefield-4-pc-origin-key-global-i10000003041004/590dbaedae653a8d746541aa",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "28",
 			"miesiac": "Czerwiec",
 			"rok": "2020"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Battlefield 4",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "8",
@@ -174,20 +159,18 @@
 		"okladka" : "https://cdn.cdkeys.com/700x700/media/catalog/product/4/2/4260095171856.jpg",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "11",
 			"miesiac": "Lipiec",
 			"rok": "2019"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Arma III",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "9",
@@ -195,20 +178,18 @@
 		"okladka" : "https://a.allegroimg.com/s512/119529/9502f395484982df3ce8fb10c933/EURO-TRUCK-SIMULATOR-2-KLUCZ-PC-LOSOWA-GRA-STEAM",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "30",
 			"miesiac": "Październik",
 			"rok": "2016"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Euro Truck Simulator 2",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	},
 	{
 		"id": "10",
@@ -216,19 +197,17 @@
 		"okladka" : "https://5.allegroimg.com/original/06128e/8802c18640bdb7af0a7783c9f985/Far-Cry-5-PC-PL-Bonus",
 		"gatunek": "Akcji",
 		"cena": "40",
-		"dataPremiery": [
+		"dataPremiery":
 			{
 			"dzien": "5",
 			"miesiac": "Październik",
 			"rok": "2021"
-			}
-		],	
+			},	
 		"opisGry":  "Opis Far Cry 5",
-		"inneDane":[
+		"inneDane":
 			{
 				"platforma": "PC",
 				"trybGry": "Singleplayer"				
 			}
-		]
 	}]
 }
