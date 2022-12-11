@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projekt1.oAutorze">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="0" Text="O AUTORZE" TextColor="#000000" FontSize = "30" FontAttributes="Bold, Italic" VerticalTextAlignment="Center" BackgroundColor="red" VerticalOptions="Fill" HorizontalTextAlignment="Center" HorizontalOptions="Fill"/>
+        <Label Grid.Row="3" Grid.Column="0" Text="Informacje o autorze aplikacji:&#10;&#10;Imię: JAKUB&#10;Nazwisko: SPERSKI&#10;Numer indeksu: 78319&#10;Grupa: 2&#10;Rok akademicki: 2022/23" FontSize = "20" TextColor="#000000" HorizontalTextAlignment="Center"/>
+    </Grid>
+</ContentPage>

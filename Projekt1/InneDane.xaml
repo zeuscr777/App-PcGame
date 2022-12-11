@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projekt1.InneDane">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="1.5*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="0" x:Name="myLabelInneDane" FontSize="30" Text="elo1" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label Grid.Row="2" Grid.Column="0" x:Name="myLabelPlatforma" Margin="10,0,0,0" FontSize="20" Text="elo2" TextColor="#000000" HorizontalTextAlignment="Start"/>
+        <Label Grid.Row="3" Grid.Column="0" x:Name="myLabelTrybGry" Margin="10,0,0,0" FontSize="20" Text="elo3" TextColor="#000000" HorizontalTextAlignment="Start"/>
+    </Grid>
+</ContentPage>

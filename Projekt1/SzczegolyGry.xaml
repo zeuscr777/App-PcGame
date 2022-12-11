@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projekt1.SzczegolyGry">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+        <Image Grid.Row="1" Grid.Column="0" x:Name="myImage" AbsoluteLayout.LayoutBounds="0,0,1,1"   AbsoluteLayout.LayoutFlags="All" HorizontalOptions="Center" VerticalOptions="Fill" Aspect="AspectFill"/>
+        <Label Grid.Row="2" Grid.Column="0" x:Name="myLabelOpisGry" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label Grid.Row="3" Grid.Column="0" x:Name="myLabelGatunek" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label Grid.Row="4" Grid.Column="0" x:Name="myLabelCena" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Button Grid.Row="5" Grid.Column="0" Text="Data premiery" WidthRequest="300" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked_DataPremiery"/>
+        <Button Grid.Row="6" Grid.Column="0" Text="Inne dane" WidthRequest="300" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked_InneDane"/>
+    </Grid>
+</ContentPage>

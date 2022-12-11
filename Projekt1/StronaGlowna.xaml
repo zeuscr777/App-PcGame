@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projekt1.StronaGlowna">
+
+
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10" />
+                <RowDefinition Height="100" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="1" Grid.Column="0" Text="ENCYKLOPEDIA GIER KOMPUTEROWYCH" TextColor="#000000" FontSize = "30" FontAttributes="Bold, Italic" VerticalTextAlignment="Center" BackgroundColor="red" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label Grid.Row="2" Grid.Column="0" Text="UWAGA! &#10;&#10;Niniejsza aplikacja wyświetla informacje na temat różnych gier komputerowych. Użytkownik może przeglądać, a następnie kliknąć w odpowiedni przycisk, aby zapoznać się ze szczegółami." TextColor="#000000" HorizontalTextAlignment="Center" BackgroundColor="#b1ecfc" HorizontalOptions="Center"/>
+        <Button Grid.Row="3" Grid.Column="0" Text="Przeglądaj gry" WidthRequest="300" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked_PrzegladajGry"/>
+        <Label Grid.Row="4" Grid.Column="0" Text=""/>
+        <Button Grid.Row="5" Grid.Column="0" Text="O AUTORZE" WidthRequest="300" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked_oAutorze"/>
+
+
+    </Grid>
+
+
+
+
+
+    <!--
+    <ContentPage.Content>
+        <StackLayout>
+            <Label VerticalTextAlignment="Center" TextColor="#000000" FontSize = "30" FontAttributes="Bold, Italic" Text="ENCYKLOPEDIA GIER KOMPUTEROWYCH"/>
+            
+            <Button HorizontalOptions="Center" VerticalOptions="Center" Text="Przeglądaj gry" Clicked="Button_Clicked1"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+
+
+  -->
+    
+</ContentPage>

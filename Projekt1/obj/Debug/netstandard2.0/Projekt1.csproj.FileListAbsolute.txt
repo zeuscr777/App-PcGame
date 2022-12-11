@@ -1,0 +1,41 @@
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.deps.json
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.dll
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\ref\Projekt1.dll
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.pdb
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.csproj.AssemblyReference.cache
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.AssemblyInfoInputs.cache
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.AssemblyInfo.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.csproj.CoreCompileInputs.cache
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.dll
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\ref\Projekt1.dll
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.pdb
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\StronaGlowna.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\oAutorze.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\PrzegladajGry.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\SzczegolyGry.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\DataPremiery.xaml.g.cs
+D:\Studia\3 Semestr\Programowanie aplikacji mobilnych\Projekt\Projekty\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\InneDane.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.deps.json
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.dll
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\ref\Projekt1.dll
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\bin\Debug\netstandard2.0\Projekt1.pdb
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\DataPremiery.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\InneDane.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\oAutorze.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\PrzegladajGry.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\StronaGlowna.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\SzczegolyGry.xaml.g.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.AssemblyInfo.cs
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.dll
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\ref\Projekt1.dll
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.pdb
