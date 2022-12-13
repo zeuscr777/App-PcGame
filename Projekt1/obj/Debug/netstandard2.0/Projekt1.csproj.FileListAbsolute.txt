@@ -39,3 +39,4 @@ C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0
 C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.dll
 C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\ref\Projekt1.dll
 C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.pdb
+C:\Users\mgkgameever\Desktop\Projekt1\Projekt1\Projekt1\obj\Debug\netstandard2.0\Projekt1.csproj.AssemblyReference.cache

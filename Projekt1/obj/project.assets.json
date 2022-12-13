@@ -83,6 +83,17 @@
           "lib/netstandard1.0/Plugin.Connectivity.dll": {}
         }
       },
+      "Xam.Plugins.DownloadManager/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/dotnet/Plugin.DownloadManager.Abstractions.dll": {},
+          "lib/dotnet/Plugin.DownloadManager.dll": {}
+        },
+        "runtime": {
+          "lib/dotnet/Plugin.DownloadManager.Abstractions.dll": {},
+          "lib/dotnet/Plugin.DownloadManager.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -493,6 +504,41 @@
         "xam.plugin.connectivity.nuspec"
       ]
     },
+    "Xam.Plugins.DownloadManager/1.4.0": {
+      "sha512": "cie4U0vP87MthMD13pAMzRxCwxnZDXD6JtS7/ObhpHW0aPHs2DH4Fs1HC3nHsBQAMfKfh52XYDh3d/wnEkQvRQ==",
+      "type": "package",
+      "path": "xam.plugins.downloadmanager/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.DownloadManager.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.DownloadManager.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.DownloadManager.dll",
+        "lib/MonoAndroid10/Plugin.DownloadManager.xml",
+        "lib/Xamarin.Mac20/Plugin.DownloadManager.Abstractions.dll",
+        "lib/Xamarin.Mac20/Plugin.DownloadManager.Abstractions.xml",
+        "lib/Xamarin.Mac20/Plugin.DownloadManager.dll",
+        "lib/Xamarin.Mac20/Plugin.DownloadManager.xml",
+        "lib/Xamarin.iOS10/Plugin.DownloadManager.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.DownloadManager.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.DownloadManager.dll",
+        "lib/Xamarin.iOS10/Plugin.DownloadManager.xml",
+        "lib/dotnet/Plugin.DownloadManager.Abstractions.dll",
+        "lib/dotnet/Plugin.DownloadManager.Abstractions.xml",
+        "lib/dotnet/Plugin.DownloadManager.XML",
+        "lib/dotnet/Plugin.DownloadManager.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.DownloadManager.Abstractions.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.DownloadManager.Abstractions.xml",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.DownloadManager.XML",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.DownloadManager.dll",
+        "lib/uap10.0/Plugin.DownloadManager.Abstractions.dll",
+        "lib/uap10.0/Plugin.DownloadManager.Abstractions.xml",
+        "lib/uap10.0/Plugin.DownloadManager.dll",
+        "lib/uap10.0/Plugin.DownloadManager.xml",
+        "xam.plugins.downloadmanager.1.4.0.nupkg.sha512",
+        "xam.plugins.downloadmanager.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.6.1": {
       "sha512": "gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
       "type": "package",
@@ -767,6 +813,7 @@
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 13.0.2",
       "Xam.Plugin.Connectivity >= 3.2.0",
+      "Xam.Plugins.DownloadManager >= 1.4.0",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
@@ -836,6 +883,10 @@
             "target": "Package",
             "version": "[3.2.0, )"
           },
+          "Xam.Plugins.DownloadManager": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.6.1, )"
@@ -858,5 +909,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „Xam.Plugins.DownloadManager 1.4.0” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "Xam.Plugins.DownloadManager",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -1,6 +1,7 @@
 ﻿using Plugin.Connectivity;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,14 +20,40 @@ namespace Projekt1
         {
             InitializeComponent();
 
+
+
             //Jeżeli jest połączenie z Internetem
             if (CzyJestInternet())
             {
-                myImage.Source = Informacje.gry[id].okladka;
+                for (int i = 0; i < 10; i++)
+                {
+                    myImage.Source = new UriImageSource
+                    {
+                        Uri = new Uri(Informacje.gry[i].okladka),
+                        CachingEnabled = true,
+                        CacheValidity = new TimeSpan(30, 0, 0, 0)
+                    };
+                }
+
+                //myImage.Source = Informacje.gry[id].okladka;
+                myImage.Source = new UriImageSource
+                {
+                    Uri = new Uri(Informacje.gry[id].okladka),
+                    CachingEnabled = true,
+                    CacheValidity = new TimeSpan(30, 0, 0, 0)
+                };
             }
             else
             {
-                myImage.Source = ImageSource.FromResource("Projekt1.Images.cover.png");
+
+                myImage.Source = new UriImageSource
+                {
+                    Uri = new Uri(Informacje.gry[id].okladka),
+                    CachingEnabled = true,
+                    CacheValidity = new TimeSpan(30, 0, 0, 0)
+                };
+                //myImage.Source = ImageSource.FromResource("Projekt1.Images.cover.png");
+
             }
 
             myLabelOpisGry.Text = Informacje.gry[id].opisGry;

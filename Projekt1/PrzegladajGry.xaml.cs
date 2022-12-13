@@ -17,6 +17,7 @@ using System.Net;
 using System.Net.NetworkInformation;
 
 using Plugin.Connectivity;
+using Plugin.DownloadManager;
 
 namespace Projekt1
 {
@@ -29,6 +30,7 @@ namespace Projekt1
         Root DoPrzekazania;
         static Root aaa;
         static Root bbb;
+        static string sciezka = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
 
 
         IDictionary<int, string> slownikGier = new Dictionary<int, string>();
@@ -52,6 +54,8 @@ namespace Projekt1
                 czaryJsonInOffline();
             }       
         }
+
+
         
         public bool CzyJestInternet()
         {
@@ -60,11 +64,11 @@ namespace Projekt1
         
         public async Task DoCache()
         {
-            bbb = await GetCinemaDTO();
+            bbb = await GetCache();
         }
 
-        public static Task<Root> GetCinemaDTO() =>
-            GetAsync<Root>(url, "get-cinema");
+        public static Task<Root> GetCache() =>
+            GetAsync<Root>(url, "get-cache");
 
         static async Task<T> GetAsync<T>(string url, string key, int mins = 30, bool forceRefresh = false)
         {
